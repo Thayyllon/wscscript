@@ -1,0 +1,1 @@
+Get-FsrmFileScreen -Path S:\SHARE\ti | select Active, IncludeGroup

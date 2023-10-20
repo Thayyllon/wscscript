@@ -1,0 +1,2 @@
+echo "EHLO wsc2023.sp.gov"
+sleep 2

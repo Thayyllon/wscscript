@@ -1,0 +1,4 @@
+Habilitar acesso root ao ssh em todos os linuxs
+Instalar ssh server em todos os windows
+Instalar a biblioteca paramiko nas maquinas onde o script será executado               
+Instalar "sshpass" em todas as maquinas que executarão o script

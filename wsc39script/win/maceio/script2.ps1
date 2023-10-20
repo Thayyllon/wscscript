@@ -1,0 +1,1 @@
+Get-DfsrMember -DomainName 'wsc2023.al.gov' -GroupName "AL-SHARE" | select ComputerName,GroupName,DomainName,State

@@ -1,0 +1,1 @@
+Get-FileShare | select Name,OperationalStatus
